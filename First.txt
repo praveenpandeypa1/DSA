@@ -1,0 +1,2 @@
+# There is the matrix question that we have to do is: Maximal area of histogram:
+# There is same question from array that we have to do and it is related to find the area of histogram from givrn array elements:
