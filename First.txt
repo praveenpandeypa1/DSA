@@ -5,3 +5,5 @@
 
 
 ******************** Hence we are done with the matrix concept****************************
+
+# today i solve the 20 most asked array question that are basic and can be asked in any coding competion.
