@@ -9,3 +9,5 @@
 # today i solve the 20 most asked array question that are basic and can be asked in any coding competion.
 
 #solved the problem realetd to best time to buy and sell stocks
+
+# while solving the problem related to finding the subarray with unique element we will use concept of two pointer wih left and right pointer with lefyt and right increase on demand:
