@@ -19,6 +19,7 @@ and then delete temp;
 ## for peek retur top->data;
 
 ************Represenation of stack using queue*******************
+We can reprent stack uing 2 queue concept and it is quite easy way of reprenation:
 
 ## we can reprent stack using 2 queues in the given data structure:***
 
