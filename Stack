@@ -20,4 +20,8 @@ and then delete temp;
 
 ************Represenation of stack using queue*******************
 
+## we can reprent stack using 2 queues in the given data structure:***
+
+## take 2 queues and push the value in q1 and then push all value in q2 untill q1 empty and then back push all value in q1 back:
+## and pop operation is simple nand nothing extra requite it will:
 
