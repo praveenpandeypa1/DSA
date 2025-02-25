@@ -1,1 +1,4 @@
 
+## Stack consit of top, size, capacity variable:
+## for push operation the condition of overflow will be if (top==size-1) here size is capacity of the given stack:
+## for pop operation the condition of underflow will be if(top==-1) here thi i condition of underflow:
